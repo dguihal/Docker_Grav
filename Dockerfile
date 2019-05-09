@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.9
 LABEL maintainer="Damien Guihal <dguihal@gmail.com>"
 
 # Define Grav version and expected SHA1 signature
